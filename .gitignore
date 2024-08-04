@@ -1,0 +1,35 @@
+# Ignorer les fichiers spécifiques
+*.log
+*.tmp
+*.bak
+
+# Ignorer les fichiers de configuration spécifiques
+.env
+
+
+# Obsidian specifics
+.obsidian/
+.makemd/
+.space/
+.trash/
+extra/
+tags/
+Vault.md
+
+# IDE specific
+# .vscode/
+
+# Jupyter
+# .ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Hugo
+.hugo_build.lock
+go.sum
+resources/
+public/
+
+# Test
+# test/go.sum
