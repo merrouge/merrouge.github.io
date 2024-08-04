@@ -1,0 +1,51 @@
+# Navigation Links
+#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
+#   The `weight` parameter defines the order that the links will appear in.
+
+main:
+  - name: Accueil
+    url: /#top
+    weight: 10
+  - name: Prowellness
+    url: /#features
+    weight: 20
+    hasChildren: true
+  - parent: Prowellness
+    name: Feel Great
+    weight: 1
+    url: /#feel-great
+  - parent: Prowellness
+    name: Detox
+    weight: 2
+    url: /#detox
+  - parent: Prowellness
+    name: Métabolisme
+    weight: 3
+    url: /#metabolisme
+  - parent: Prowellness
+    name: Immunité
+    weight: 4
+    url: /#immunite
+  - parent: Prowellness
+    name: Tous les produits
+    url: /#products
+  - name: Qui suis-je?
+    url: /#about-me
+    weight: 30
+  - name: Resources
+    weight: 40
+    hasChildren: true
+  - parent: Resources
+    name: Blog
+    weight: 1
+    url: /blog/
+  - parent: Resources
+    name: Ebook Prowellness
+    weight: 2
+    url: /#ebook
+  - parent: Resources
+    name: Science
+    url: https://www.unicityscience.org/?lang=fr
+  - parent: Resources
+    name: Histoire Unicity
+    url: https://www.unicity.com/fra/fr/learn/history
