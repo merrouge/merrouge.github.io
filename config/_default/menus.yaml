@@ -21,11 +21,11 @@ main:
   - parent: Prowellness
     name: Métabolisme
     weight: 3
-    url: /#metabolisme
+    url: /metabolisme
   - parent: Prowellness
     name: Immunité
     weight: 4
-    url: /#immunite
+    url: /immunite
   - parent: Prowellness
     name: Tous les produits
     url: /#products
