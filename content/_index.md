@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: strategie 1.jpg
+          filename: community-1.jpg
           filters:
             brightness: 0.5
   - block: stats
@@ -88,7 +88,7 @@ sections:
             - "Adapter ton alimentation: Quoi? Combien? Quand?"
             - "Les produits vont booster x4 ta procédure"
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: boost-sante-1.jpg
           button:
             text: Commencer
             url: https://ufeelgreat.com/fra/fr/c/marc.nguyen
@@ -100,7 +100,7 @@ sections:
             - "Apprendre et partager les retours d'expériences"
             - "Échanger pour mieux adapter à ta santé"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: community-4.jpg
           button:
             text: Joins Groupe
             url: https://facebook.com/groups/lhq1fr/
