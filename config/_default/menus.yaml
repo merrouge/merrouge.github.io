@@ -21,7 +21,7 @@ main:
   - parent: Prowellness
     name: Métabolisme
     weight: 3
-    url: /metabolisme
+    url: /metabolic
   - parent: Prowellness
     name: Immunité
     weight: 4
