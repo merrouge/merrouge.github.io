@@ -1,6 +1,5 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Detox'
 type: landing
 
 design:
@@ -10,12 +9,13 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: detox
     content:
       title: Les produits de detox
-      text: xxxx
+      text: Faire le ménage de votre corps
       filters:
         folders:
-          - project
+          - detox
     design:
       view: article-grid
       fill_image: false

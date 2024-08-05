@@ -17,18 +17,18 @@ main:
   - parent: Prowellness
     name: Detox
     weight: 2
-    url: /detox
+    url: /detox/
   - parent: Prowellness
     name: Métabolisme
     weight: 3
-    url: /metabolic
+    url: /metab/
   - parent: Prowellness
     name: Immunité
     weight: 4
-    url: /immunite
+    url: /immun
   - parent: Prowellness
     name: Tous les produits
-    url: /#products
+    url: /product/
   - name: Qui suis-je?
     url: /about
     weight: 30

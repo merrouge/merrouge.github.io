@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Immunnité'
 date: 2024-05-19
 type: landing
 
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Les produits pour booster votre métabolisme
-      text: Autres que Feel Great, les produits suivants participent à booster votre métabolisme aussi.
+      title: Les produits de renforcement pour votre immunité
+      text: Vous voulez renforcer votre immunité et votre santé global, voici les produits pour vous.
       filters:
         folders:
-          - project
+          - immun
     design:
       view: article-grid
       fill_image: false
