@@ -1,5 +1,6 @@
 ---
 title: Comment le glucose est régulé dans l'organisme, et pourquoi c'est important ?
+summary: x
 date: 2024-08-01
 tags:
   - glucose
@@ -9,6 +10,8 @@ tags:
   - conseils
 categories:
   - Santé
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 banner: img/banners/banner-0.jpg
 authors:
   - Marc Nguyen

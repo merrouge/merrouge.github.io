@@ -1,5 +1,6 @@
 ---
 title: Quels sont les avantages du jeûne intermittent de 16 heures
+summary: xx
 date: 2024-08-01
 authors:
   - Marc Nguyen

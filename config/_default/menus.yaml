@@ -13,11 +13,11 @@ main:
   - parent: Prowellness
     name: Feel Great
     weight: 1
-    url: /#feel-great
+    url: "https://ufeelgreat.com/fra/fr/c/marc.nguyen"
   - parent: Prowellness
     name: Detox
     weight: 2
-    url: /#detox
+    url: /detox
   - parent: Prowellness
     name: Métabolisme
     weight: 3
@@ -30,7 +30,7 @@ main:
     name: Tous les produits
     url: /#products
   - name: Qui suis-je?
-    url: /#about-me
+    url: /about
     weight: 30
   - name: Resources
     weight: 40
