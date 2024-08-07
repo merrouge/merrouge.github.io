@@ -1,17 +1,17 @@
 ---
+title: Omega Life-3 Resolv
+summary: Meilleurs EPA & DHA pour l'anti-inflammation
+date: 2024-08-05
+external_link: #https://shop.unicity.com/product-info/31534
 tags:
-  - omega-3
+  - anti-inflammation
+  - protection
+  - métabolisme
   - epa
   - dha
-  - type/product/note
-lead: Meilleur Omega-3, anti-inflammatoire naturel
 ---
 
-# Omega Life - 3 Resolv
-> [!Note]
-> `= this.lead`
 
-Link: https://shop.unicity.com/product-info/31534
 
 Omega Life-3 est le seul produit nutraceutique à base d’oméga-3 qui est répertorié dans le [Physicians’ Desk Reference](https://www.pdr.net/search-results?q=unicity)
 
@@ -97,10 +97,3 @@ Les résolvines font donc partie des médiateurs lipidiques produits naturelleme
 L'usine de production est située en Norvège.
 - La meilleure technologie d'extraction.
 - Une source pure de poissons marins en profondeur (sans pollution) pourque l'absorption soit optimale.
-
-
-
-
-
-
-

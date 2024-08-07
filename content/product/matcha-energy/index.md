@@ -1,22 +1,16 @@
 ---
+title: Matcha Energy
+summary: Booster l'énergie de ton corps
+date: 2024-08-05
+external_link: 
 tags:
-  - type/product/note
+  - mitochondrie
+  - énergie
+  - métabolisme
   - matcha
-  - energy
   - chi-oka
-aliases: 
-lead: Booster l'énergie de ton corps
-visual: 
-date: 2024-01-10
-template-type: Product
 ---
 
-# Matcha Energy
-
-> [!Note]
-> `= this.lead`
-
-![[attachments/matcha energy eu.png|400]]
 ## INGRÉDIENTS ET BIENFAITS
 
 Unicity Matcha Energy avec son mélange exclusif de *Chi-Oka Matcha*, de *guarana*, de *Yerba Maté* et d‘autres ingrédients naturels offre un regain d’énergie durable et augmente les facultés de concentration.  

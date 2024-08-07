@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: hero
@@ -129,7 +129,7 @@ sections:
         text: Construire ensemble
         url: https://ufeelgreat.com/fra/fr/c/marc.nguyen
     design:
-      card:
+      card: 
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""

@@ -1,7 +1,15 @@
-
-# Balance
-
-![Balance](Balance_EU_NFR.png)
+---
+title: Balance
+summary: Renforcer ta santé physique en régulant les niveaux de cholestérol, de glucose et en favorisant une digestion saine. Ce produit utilise une combinaison unique de fibres, de phytostérols, et d'autres ingrédients naturels pour offrir des bienfaits multiples.
+date: 2024-08-05
+external_link: #https://shop.unicity.com/product-info/27160
+tags:
+  - fibre
+  - prébiotique
+  - métabolisme
+image:
+  caption: 'Balance'
+---
 
 ### **Description du Produit**
 
@@ -72,7 +80,6 @@ Unicity Balance est un complément alimentaire complet et efficace pour ceux qui
 
 Pour plus d'informations sur les recherches scientifiques derrière les produits Unicity, visitez unicityscience.org.
 
----
 
 **Note**: Les informations fournies dans cette fiche produit sont basées sur des sources fiables et des études cliniques. Toutefois, il est toujours recommandé de consulter un professionnel de santé avant de commencer tout nouveau complément alimentaire.
 

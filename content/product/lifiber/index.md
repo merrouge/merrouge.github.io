@@ -1,19 +1,13 @@
 ---
+title: LiFiber
+summary: Renforcer par des fibres
+date: 2024-08-05
+external_link: 
 tags:
-  - type/product/note
-  - LiFiber
-  - instestin
+  - detox
+  - fibre
   - digestion
-  - santé
-aliases: 
-lead: Lead paragraph goes here
-visual: 
-date: 2024-08-07
-template-type: Product
 ---
-
-# LiFiber
-![[LiFiber_hand.png|400]]
 
 > [!abstract] LiFiber d'Unicity est un complément alimentaire complet pour soutenir la santé intestinale grâce à un mélange équilibré de fibres et d'herbes bénéfiques. Il est conçu pour améliorer la digestion, maintenir un taux de cholestérol sain, et aider au contrôle du poids, tout en favorisant une flore intestinale saine.
 
@@ -63,4 +57,3 @@ LiFiber d'Unicity est un complément alimentaire conçu pour soutenir la santé 
 
 ## Valeurs nutritives
 ![[LiFiber-Supp-Facts_ENG_FR-01.png|400]]
-
