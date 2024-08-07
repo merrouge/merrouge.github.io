@@ -1,10 +1,7 @@
 
 # Balance
 
-{{< figure src="/static/img/Balance_EU_NFR.png" id="balance-unicity" >}}
-![Balance](#figure-balance-unicity)
-![Balance](/static/img/Balance_EU_NFR.png)
-![Balance](Balance_EU_NFR.png "Balance")
+![Balance](Balance_EU_NFR.png)
 
 ### **Description du Produit**
 

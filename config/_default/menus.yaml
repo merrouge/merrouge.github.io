@@ -50,7 +50,7 @@ main:
   - parent: Resources
     name: Ebook Prowellness
     weight: 2
-    url: /#ebook
+    url: /ebook
   - parent: Resources
     name: Science
     url: https://www.unicityscience.org/?lang=fr
