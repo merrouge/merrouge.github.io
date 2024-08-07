@@ -32,14 +32,14 @@ main:
   - name: Qui suis-je?
     url: /about
     weight: 30
-  - parent: Qui suis-je?
-    name: Santé
-    weight: 1
-    url: /#sante
-  - parent: Qui suis-je?
-    name: Mindset
-    weight: 2
-    url: /#mindset
+  # - parent: Qui suis-je?
+  #   name: Santé
+  #   weight: 1
+  #   url: /#sante
+  # - parent: Qui suis-je?
+  #   name: Mindset
+  #   weight: 2
+  #   url: /#mindset
   - name: Resources
     weight: 40
     hasChildren: true
