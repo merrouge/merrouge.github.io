@@ -1,12 +1,12 @@
 ---
-title: Nature's Tea
-summary: (non disponible EU)
+title: Immunizen
+summary: 
 date: 2024-08-05
-external_link: 
+external_link: https://shop.unicity.com/product-info/18511
 tags:
-  - detox
-  - instestin
+  - immunité
+  - renfort
   - digestion
 ---
-Stimuler les contractions intestinales pour enlever les toxines.
+Renforcer ton immunité
 <!--more-->

@@ -1,12 +1,11 @@
 ---
-title: Nature's Tea
-summary: (non disponible EU)
+title: Bio-C
 date: 2024-08-05
-external_link: 
+external_link: https://shop.unicity.com/product-info/33336
 tags:
-  - detox
-  - instestin
-  - digestion
+  - vitamine-c
+  - assimilation
+  - immunite
 ---
-Stimuler les contractions intestinales pour enlever les toxines.
+Vitamine C qui soutient votre métabolisme énergétique et votre immunité.
 <!--more-->

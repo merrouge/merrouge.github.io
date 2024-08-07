@@ -1,11 +1,11 @@
 ---
-title: LiFiber
+title: Omega Life-3 Resolv
 date: 2024-08-05
-external_link: 
+external_link: https://shop.unicity.com/product-info/31534
 tags:
-  - detox
-  - fibre
-  - digestion
+  - anti-inflammation
+  - protection
+  - metabolisme
 ---
 
-LiFiber contient des fibres solubles et insolubles ainsi que des prébiotiques pour favoriser une digestion saine
+Meilleurs EPA & DHA pour l'anti-inflammation

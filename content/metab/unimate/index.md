@@ -1,11 +1,11 @@
 ---
-title: LiFiber
+title: Unimate
 date: 2024-08-05
 external_link: 
 tags:
-  - detox
-  - fibre
-  - digestion
+  - humeur
+  - concentration
+  - metabolisme
 ---
 
-LiFiber contient des fibres solubles et insolubles ainsi que des prébiotiques pour favoriser une digestion saine
+Booster la concentration, la clarté mental, l'humeur pour éviter la maladie d'Alzheimer
