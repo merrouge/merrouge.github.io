@@ -1,7 +1,8 @@
 ---
 title: Nature's Tea
 date: 2024-08-05
-external_link: 
+external_link:
+categories: product
 tags:
   - detox
   - intestin

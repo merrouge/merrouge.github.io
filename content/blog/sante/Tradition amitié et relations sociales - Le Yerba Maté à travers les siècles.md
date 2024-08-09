@@ -1,8 +1,9 @@
 ---
 title: Tradition amitié et relations sociales - Le Yerba Maté à travers les siècles
-summary: x
+summary:
+  - x
 categories:
-  - Santé
+  - blog
 date: 2023-10-27
 authors:
   - Marc Nguyen

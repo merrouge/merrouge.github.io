@@ -1,6 +1,7 @@
 ---
 title: Tous les produits
 type: landing
+categories: product
 
 sections:
   - block: cta-image-paragraph

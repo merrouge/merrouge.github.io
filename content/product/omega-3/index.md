@@ -3,10 +3,12 @@ title: Omega Life-3 Resolv
 summary: Meilleurs EPA & DHA pour l'anti-inflammation
 date: 2024-08-05
 external_link: #https://shop.unicity.com/product-info/31534
+categories: product
 tags:
   - anti-inflammation
   - protection
-  - métabolisme
+  - metabolisme
+  - immunite
   - epa
   - dha
 ---

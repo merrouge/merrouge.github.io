@@ -76,6 +76,15 @@ sections:
         - name: Make Life Better
           icon: rectangle-group
           description: C'est notre slogan ancré dans la mentalité!
+        - name: Groupe d'entraide
+          icon: magnifying-glass
+          description: Participer et échanger pour mieux adapter à ta santé
+        - name: Style de vie sain à long terme
+          icon: code-bracket
+          description: T'informer sur les connaissances à jour
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -107,6 +116,38 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: collection
+    id: news
+    content:
+      title: ''
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        folders: 
+          - blog
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      columns: 3
+      # Choose a layout view
+      view: article-grid
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: testimonials
     content:
       title: ""

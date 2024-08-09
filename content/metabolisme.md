@@ -13,9 +13,10 @@ sections:
     content:
       title: Les produits pour booster votre métabolisme
       text: Autres que Feel Great, les produits suivants participent à booster votre métabolisme aussi.
+      count: 0
       filters:
-        folders:
-          - metab
+        category: product
+        tag: metabolisme
     design:
       view: article-grid
       fill_image: false

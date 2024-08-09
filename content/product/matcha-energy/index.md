@@ -3,10 +3,11 @@ title: Matcha Energy
 summary: Booster l'énergie de ton corps
 date: 2024-08-05
 external_link: 
+categories: product
 tags:
   - mitochondrie
-  - énergie
-  - métabolisme
+  - energie
+  - metabolisme
   - matcha
   - chi-oka
 ---

@@ -13,9 +13,10 @@ sections:
     content:
       title: Les produits de detox
       text: Faire le ménage de votre corps
+      count: 0
       filters:
-        folders: 
-          - detox
+        category: product
+        tag: detox
     design:
       view: article-grid
       fill_image: false

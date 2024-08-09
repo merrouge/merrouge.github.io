@@ -3,10 +3,11 @@ title: Balance
 summary: Renforcer ta santé physique en régulant les niveaux de cholestérol, de glucose et en favorisant une digestion saine. Ce produit utilise une combinaison unique de fibres, de phytostérols, et d'autres ingrédients naturels pour offrir des bienfaits multiples.
 date: 2024-08-05
 external_link: #https://shop.unicity.com/product-info/27160
+categories: product
 tags:
+  - metabolisme
   - fibre
-  - prébiotique
-  - métabolisme
+  - prebiotique
 image:
   caption: 'Balance'
 ---

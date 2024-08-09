@@ -13,9 +13,10 @@ sections:
     content:
       title: Les produits de renforcement pour votre immunité
       text: Vous voulez renforcer votre immunité et votre santé global, voici les produits pour vous.
+      count: 0
       filters:
-        folders:
-          - immun
+        category: product
+        tag: immunite
     design:
       view: article-grid
       fill_image: false

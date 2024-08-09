@@ -2,6 +2,7 @@
 title: Cleanse / Aloe Vera
 date: 2024-08-05
 external_link: #https://shop.unicity.com/product-info/27150
+categories: product
 tags:
   - detox
   - intestin

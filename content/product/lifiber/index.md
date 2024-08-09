@@ -3,6 +3,7 @@ title: LiFiber
 summary: Renforcer par des fibres
 date: 2024-08-05
 external_link: 
+categories: product
 tags:
   - detox
   - fibre
