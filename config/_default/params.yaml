@@ -14,9 +14,12 @@ marketing:
   seo:
     site_type: Person
     local_business_type: 'Santé'
-    org_name: ''
+    org_name: 'Life with Health and Quality'
     description: 'Un leader dans la santé métabolique, dans le développement personnel et dans les revenus passifs orientés vers la liberté financière.'
-    twitter: 'marc_nguyen'
+    twitter: 'marcbetterlife'
+    facebook: 'marcnguyen.betterlife'
+    tiktok: 'marcnguyen.betterlife'
+    instagram: 'marchh.nguyen'
   analytics:
     google_analytics: 'G-04M46XQ66M'
     microsoft_clarity: 'nkirsl36ml'
