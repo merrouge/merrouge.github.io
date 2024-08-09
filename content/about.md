@@ -18,7 +18,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: strategie 1.jpg
           filters:
             brightness: 0.4
           size: cover
