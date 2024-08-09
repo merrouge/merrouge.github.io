@@ -15,16 +15,18 @@ marketing:
     site_type: Person
     local_business_type: 'Santé'
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Un leader dans la santé métabolique, dans le développement personnel et dans les revenus passifs orientés vers la liberté financière.'
+    twitter: 'marc_nguyen'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-04M46XQ66M'
+    microsoft_clarity: 'nkirsl36ml'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'G-04M46XQ66M'
+    bing: 'nkirsl36ml'
     baidu: ''
 
 # Site header
