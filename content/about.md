@@ -26,7 +26,7 @@ sections:
           parallax: false 
   - block: markdown
     content:
-      title: Qui suis je ?
+      title: Mon histoire de recherche le "moi" physique et mental.
       subtitle: Et comment je transforme ma vie ?
       text: |        
 

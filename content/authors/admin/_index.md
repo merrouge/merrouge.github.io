@@ -71,8 +71,11 @@ education:
 website: "nguyenhonghai.com"
 ---
 
-Hong Hai Nguyen est un ingénieur chercheur en génie civil. Diplômé de l'Ecole des Ponts - ParisTech en 2008, en tant que Docteur en Mécanique, il continue dans les projets de recherche et développement. 
+Hong Hai Nguyen, est un ingénieur-chercheur passionné dans le domaine du génie civil. Diplômé de la prestigieuse École des Ponts ParisTech en 2008, en tant que Docteur en Mécanique, il poursuit avec enthousiasme ses activités de recherche et développement, mettant à profit son expertise et son savoir-faire.
 
-Intéressé par le domaine de santé et également les mindsets pour construire un monde meilleur avec un bonheur de façon maîtrisée avec 3 clés: santé, temps et finance approchant la liberté financière, il a démarré en parallèle la carrière en tant que distributeur-leader d'Unicity afin de construire une communauté ayant les mêmes objectif et mentalité.
+Parallèlement à sa carrière d'ingénieur, Hong Hai Nguyen s'intéresse de près aux questions de santé et de bien-être, ainsi qu'aux approches permettant de construire un monde meilleur où le bonheur est maîtrisé. Selon lui, trois clés essentielles permettent d'atteindre cet équilibre : la santé, une gestion optimale de son temps et une situation financière stable, proche de la liberté financière. 
 
+C'est dans cette optique qu'il a décidé de s'engager en tant que distributeur-leader chez Unicity, afin de bâtir une communauté partageant les mêmes objectifs et la même philosophie de vie. Son ambition est de rassembler des personnes désireuses de s'épanouir tant sur le plan personnel que professionnel, en adoptant une approche globale du bien-être.
+
+Fort de ses compétences techniques et de sa volonté d'aider les autres, Hong Hai Nguyen s'attache à transmettre ses connaissances et à inspirer ceux qui l'entourent. Son parcours atypique et son engagement sincère font de lui un leader charismatique, déterminé à avoir un impact positif sur le monde qui l'entoure.
 
