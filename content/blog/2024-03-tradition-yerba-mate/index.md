@@ -1,14 +1,12 @@
 ---
 title: Tradition amitié et relations sociales - Le Yerba Maté à travers les siècles
-summary:
-  - x
+summary: Découvrir le Yerba Maté dans la tradition des personnes en Amérique du Sud
 categories:
   - blog
 date: 2023-10-27
 authors:
   - Marc Nguyen
 tags:
-  - blog
   - yerba-mate
 ---
 

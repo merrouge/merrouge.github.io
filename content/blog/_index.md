@@ -12,7 +12,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
     #   page_type: publication
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      # count: 5
       # Filter on criteria
       filters:
         author: ""
@@ -30,7 +30,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      # view: date-title-summary
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

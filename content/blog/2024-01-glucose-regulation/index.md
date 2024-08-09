@@ -1,7 +1,6 @@
 ---
 title: Comment le glucose est régulé dans l'organisme, et pourquoi c'est important ?
-summary:
-  - x
+summary: Gestion du poids, alimentation, sport, Comprendre la régulation de la glycémie dans les organisme?
 date: 2024-08-01
 tags:
   - glucose
@@ -12,8 +11,7 @@ tags:
 categories:
   - blog
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
-banner: img/banners/banner-0.jpg
+  caption: "Glycémie"
 authors:
   - Marc Nguyen
 ---

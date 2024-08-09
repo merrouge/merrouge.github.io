@@ -1,15 +1,14 @@
 ---
 title: Quels sont les avantages du jeûne intermittent de 16 heures
-summary: xx
+summary: Perte de poids, sensibilité à l'insuline, santé mentale, ... qu'est-ce que l'on s'intéresse ?
 date: 2024-08-01
 authors:
   - Marc Nguyen
 tags:
   - jeuneintermittent
   - pertedepoids
-banner: img/banners/banner-2.jpg
 categories:
-  - Sante
+  - blog
 sticker: emoji//1f603
 ---
 
