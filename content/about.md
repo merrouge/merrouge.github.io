@@ -20,7 +20,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: strategie 1.jpg
           filters:
-            brightness: 0.4
+            brightness: 1.0
           size: cover
           position: center
           parallax: false 
