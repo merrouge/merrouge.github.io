@@ -48,11 +48,11 @@ sections:
         ### Comment me contacter ?
         💥Messages sur TikTok, 💥Messages par WhatsApp.
 
-        📧 hong-hai.nguyen@outlook.com
-
-        📳0️⃣6️⃣1️⃣6️⃣6️⃣5️⃣2️⃣9️⃣3️⃣4️⃣
-
-        Groupe facebook pour vous soigner vous même: https://www.facebook.com/groups/lhq1fr
+        - 📧 hong-hai.nguyen@outlook.com
+        - 📳0️⃣6️⃣1️⃣6️⃣6️⃣5️⃣2️⃣9️⃣3️⃣4️⃣
+        - Ma chaine TikTok: https://www.tiktok.com/@marcnguyen.betterlife
+        - Ma page Facebook: https://www.facebook.com/marcnguyen.betterlife
+        - Groupe facebook pour vous soigner vous même: https://www.facebook.com/groups/lhq1fr
 ---
 
 
