@@ -63,6 +63,7 @@ sections:
     content:
       title: Prowellness
       text: Pour une santé métabolique optimale 🧱
+            {{< youtube wv650EXkFcY >}}
       items:
         - name: Pratique
           icon: bolt

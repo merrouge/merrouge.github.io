@@ -7,6 +7,11 @@ type: page
 Le **Programme de Transformation Métabolique**, également connu sous le nom de **PROWELLNESS**, est une approche innovante en trois étapes visant à optimiser votre santé et votre bien-être. 
 {{% /callout %}}
 
+
+
+Veuillez prendre connaissance du programme dans la vidéo explicative suivante:
+{{< youtube wv650EXkFcY >}}
+
 En combinant détoxification du corps, transformation métabolique et renforcement des organes, ce programme complet vous guide vers une vitalité retrouvée et un équilibre corporel durable.
 
 
