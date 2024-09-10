@@ -167,6 +167,7 @@ sections:
     content:
       title: Prêt à donner à ta vie une chance
       text: Ta santé et ton mindset!
+            {{< youtube xusCcQTOKEA >}}
       button:
         text: Construire ensemble
         url: https://ufeelgreat.com/fra/fr/c/marc.nguyen
