@@ -163,11 +163,15 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
+  - block: markdown
+    content:
+      title: Mon histoire de recherche le "moi" physique et mental.
+      subtitle: Et comment je transforme ma vie ?
+      text: {{< youtube xusCcQTOKEA >}}
   - block: cta-card
     content:
       title: Prêt à donner à ta vie une chance
       text: Ta santé et ton mindset!
-            {{< youtube xusCcQTOKEA >}}
       button:
         text: Construire ensemble
         url: https://ufeelgreat.com/fra/fr/c/marc.nguyen
