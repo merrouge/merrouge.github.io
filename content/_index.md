@@ -94,7 +94,7 @@ sections:
           text: Facile comme compter 1, 2, 3!
           feature_icon: check
           features:
-            - "Jeûn intermittent - une approche approuvée"
+            - "Jeûne intermittent - une approche approuvée"
             - "Adapter ton alimentation: Quoi? Combien? Quand?"
             - "Les produits vont booster x4 ta procédure"
           # Upload image to `assets/media/` and reference the filename here
@@ -149,6 +149,27 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  # === Vidéo ===
+  - block: features
+    id: features
+    content:
+      title: Construire votre carrière sans risque, zero capital
+      text: pour 3 🗝️ santé, temps et finance
+            {{< youtube xusCcQTOKEA >}}
+      # items:
+      #   - name: Sincérité
+      #     icon: bolt
+      #     description: ""
+      #   - name: Intégrité
+      #     icon: sparkles
+      #     description: ""
+      #   - name: Bienveillance
+      #     icon: star
+      #     description: ""
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+  # === Slogan ===
   - block: testimonials
     content:
       title: ""
@@ -158,7 +179,7 @@ sections:
           role: "Leader en santé et mindset"
           # Upload image to `assets/media/` and reference the filename here
           image: "photo-hh-7-5.jpg"
-          text: "Unissons-nous pour offrir au monde une santé meilleure, libérer les potentiels cachés et insuffler un sens profond à chaque vie!"
+          text: "Unissons-nous pour offrir au monde une santé meilleure, libérer les potentiels cachés et insuffler un sens profond à chaque vie! Sincérité, Intégrité et Bienveillance!"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
