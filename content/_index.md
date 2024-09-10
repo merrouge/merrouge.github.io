@@ -152,7 +152,7 @@ sections:
   - block: testimonials
     content:
       title: ""
-      text: {{< youtube xusCcQTOKEA >}}
+      text: ""
       items:
         - name: "Marc Nguyen"
           role: "Leader en santé et mindset"
