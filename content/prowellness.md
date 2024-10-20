@@ -45,6 +45,7 @@ Chaque étape du programme **Prowellness** est conçue pour s'appuyer sur les pr
 
 ## Systèmes de détoxification corporelle
 
+{{< youtube WlYoL8jpXQQ >}}
 
 La détoxification dans le programme **Prowellness** cible cinq systèmes clés du corps pour une purification globale de l'organisme. Voici les principes de détoxification pour chaque système :
 

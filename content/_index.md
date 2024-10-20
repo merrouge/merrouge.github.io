@@ -20,7 +20,7 @@ sections:
         text: Apprendre la science
         url: https://www.unicityscience.org/clinical-validation-studies/?lang=fr
       announcement:
-        text: "A nourrir votre cerveau"
+        text: "Lire mon blog"
         link:
           text: "Read more"
           url: "/blog/"
@@ -65,24 +65,24 @@ sections:
       text: Pour une santé métabolique optimale 🧱
             {{< youtube wv650EXkFcY >}}
       items:
-        - name: Pratique
+        - name: Pratique & Facile
           icon: bolt
-          description: Faciles à intégrer dans votre vie quotidienne.
+          description: Faciles à intégrer dans votre vie quotidienne, avec schéma d'alimentation **4/4/12** ou jeune intermittent **16/8**.
         - name: De véritables solutions pour la santé
           icon: sparkles
-          description: Produits de haute qualité avec des procédures de fabrication brevetées!
+          description: Produits de haute qualité avec des procédures de fabrication brevetées! Entreprise historique depuis 120 ans.
         - name: Soutenu par la science
           icon: star
-          description: Innovation à la bases des études cliniques, certifications fiables, brevets internationaux
+          description: Innovation à la bases des études cliniques, certifications fiables, brevets internationaux, pdr.net.
         - name: Make Life Better
           icon: rectangle-group
-          description: C'est notre slogan ancré dans la mentalité!
+          description: C'est notre slogan ancré dans la mentalité! *J'essaie à sauver votre vie !*
         - name: Groupe d'entraide
           icon: magnifying-glass
-          description: Participer et échanger pour mieux adapter à ta santé
+          description: "Participer et être suivi pour mieux adapter à ta santé: détox, booster le métabolisme, renforcement musculaire, rajeunissement ..."
         - name: Style de vie sain à long terme
           icon: code-bracket
-          description: T'informer sur les connaissances à jour
+          description: Connaissances à jour pour éviter les maladies cardiovasculaires, AVC, inverser le diabète de type 2, pré-diabète, perte de graisses ...
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -90,29 +90,44 @@ sections:
     id: solutions
     content:
       items:
-        - title: Rebooster ta santé
+        - title: Rebooster ta santé avec Feel Great
           text: Facile comme compter 1, 2, 3!
           feature_icon: check
           features:
-            - "Jeûne intermittent - une approche approuvée"
-            - "Adapter ton alimentation: Quoi? Combien? Quand?"
-            - "Les produits vont booster x4 ta procédure"
+            - "**Balance**: Complément de fibres végétales breveté"
+            - "**Unimaté**: Composé à base de feuilles de yerba mate, riche en acide chlorogénique"
+            - Effets cliniquement prouvés 
+            - Réduction de la glycémie de 20% (1 sachet) et 28% (2 sachets)
+            - Aide au jeûne intermittent
+            - Contrôle de la glycémie
+            - Réduction des pics d'insuline
+            - Effet satiétant
+            - Amélioration du contrôle du cholestérol
+            - Amélioration de la signalisation de la leptine
+            - Propriétés anti-diabétiques
+            - Effets anti-inflammatoires
+            - Soutien à la perte de poids
+            - Réduction naturelle de la pression artérielle
+            - Environ 5€ par jour
+            - Garantie satisfaction de 90 jours
+            - Option d'abonnement mensuel avec réduction et livraison gratuite
           # Upload image to `assets/media/` and reference the filename here
-          image: boost-sante-1.jpg
+          image: fg-comment ca marche.png
           button:
-            text: Commencer
+            text: Commander
             url: https://ufeelgreat.com/fra/fr/c/marc.nguyen
-        - title: Notre Communauté
+        - title: Notre Communauté prenant soin de ta santé
           text: Joins notre communauté sur Facebook - poses des questions pour adapter à ta santé
           feature_icon: bolt
           features:
-            - "Mettre jour les connaissances"
+            - "Mettre jour les connaissances récentes"
+            - "Adapter ton alimentation: Quoi? Combien? Quand?"
             - "Apprendre et partager les retours d'expériences"
-            - "Échanger pour mieux adapter à ta santé"
+            - "Échanger les suivis pour mieux adapter à ta santé"
           # Upload image to `assets/media/` and reference the filename here
           image: community-4.jpg
           button:
-            text: Joins Groupe
+            text: Joins à la communauté
             url: https://facebook.com/groups/lhq1fr/
     design:
       # Section background color (CSS class)
