@@ -44,10 +44,10 @@ sections:
           description: |
             de personnes savent 
             cette solution
-        - statistic: "10k+"
+        - statistic: "18"
           description: |
-            produits utilisés
-            par jour
+            produits cités
+            par PDR.net
         - statistic: "3k+"
           description: |
             Objectif de ma  
