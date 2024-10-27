@@ -42,7 +42,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo2.png"
+      filename: "logo1.png"
     button:
       enable: true
       text: "Feel Great"
