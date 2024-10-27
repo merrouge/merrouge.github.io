@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Construire les briques de votre bien-être
+      title: Construire les briques de votre meilleur bien-être
       text: 🧱 EN TOUTE SÉCURITÉ ET A LONG TERME 🧱
       primary_action:
         text: Transformer votre santé
